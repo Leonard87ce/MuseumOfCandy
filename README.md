@@ -1,4 +1,4 @@
-# MUSEUM OF CANY 
+# MUSEUM OF CANDY 
 
 
 Responsive sample of a main page for a mordern museum of candy!!
